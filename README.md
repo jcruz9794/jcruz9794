@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jcruz9794
+- I’m interested in computer programming, security topics, and the intersection between them.
+- I’m currently learning ASP.NET Blazor Server, Xamarin.Forms, and bit manipulation in C.
+- I’m looking to collaborate on any exciting or interesting projects!
+- Reach out to me at ask@jonocruz.ca, and connect with me on LinkedIn: bitly.com/jonocruz
